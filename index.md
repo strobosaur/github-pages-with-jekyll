@@ -1,5 +1,3 @@
-# strobosaur
-
 Beginner programmer looking to improve and learn, and maybe even do some good along the way :)
 
 Quick language summary:
